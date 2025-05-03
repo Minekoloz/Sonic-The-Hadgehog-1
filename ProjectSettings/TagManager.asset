@@ -7,13 +7,7 @@ TagManager:
   - Ground
   - SonicPit
   - SonicTunnel
-  - SonicSpikes
-  - SonicPlayer
-  - SonicRing
-  - SceneLoader
-  - SonicEnemyBullet
-  - PushableObject
-  - SonicEnemy
+  - Loop
   layers:
   - Default
   - TransparentFX
