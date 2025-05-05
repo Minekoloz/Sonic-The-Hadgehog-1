@@ -6,13 +6,13 @@ TagManager:
   tags:
   - Ground
   - SonicPit
-  - SonicTunnel
-  - Loop
+  - SonicSpikes
+  - SonicEnemyBullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
   - 
